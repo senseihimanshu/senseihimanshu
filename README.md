@@ -1,6 +1,7 @@
 ### Hi there, I'm Himanshu - aka [senseihimanshu][website] 👋
 
-<img src="https://raw.githubusercontent.com/senseihimanshu/senseihimanshu/master/myself-cropped.png" alt="banner that says A Developer, Thinker and Solver">
+<img src="https://raw.githubusercontent.com/senseihimanshu/senseihimanshu/master/myself-cropped.png" alt="banner that says A developer, thinker and problem solver">
+
 ## I'm a Programmer, Developer, Student, and Teacher!
 - 🔭 I’m currently working for a service based company!
 - 🌱 I’m currently learning everything 🤣
